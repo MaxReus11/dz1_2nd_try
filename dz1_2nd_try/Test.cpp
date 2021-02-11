@@ -7,6 +7,21 @@ main()
 	cout << "Some other changes";
 	
 	int a = 10, b = 1;
+	//Changing from gitHub
+	cout<< a+b<<endl;
 
+	//Chages for master branch
+	cout << 2 * a << endl;
+
+
+
+
+
+	//changes in 1st branch
+	cout << a - b;
+	//Chages for master branch
+	cout << 2 * a << endl;
+	
+	cout << "Test for master branch";
 	return 0;
 }
