@@ -21,7 +21,7 @@ main()
 	cout << a - b;
 	//Chages for master branch
 	cout << 2 * a << endl;
-	
-	cout << "Test for conflict branch";
+	a = 20;
+	cout << "Test for conflict branch:"<<a<<endl;
 	return 0;
 }
