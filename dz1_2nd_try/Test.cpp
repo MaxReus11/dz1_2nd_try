@@ -10,12 +10,6 @@ main()
 	//Changing from gitHub
 	cout<< a+b<<endl;
 
-	//Chages for master branch
-	cout << 2 * a << endl;
-
-
-
-
 
 	//changes in 1st branch
 	cout << a - b;
@@ -23,5 +17,7 @@ main()
 	cout << 2 * a << endl;
 	a = 20;
 	cout << "Test for conflict branch:"<<a<<endl;
+	//using rebase HEAD to
+	cout << "using rebase HEAD to";
 	return 0;
 }
